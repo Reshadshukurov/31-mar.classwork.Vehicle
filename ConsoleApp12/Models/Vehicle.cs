@@ -18,8 +18,16 @@ namespace ConsoleApp12.Models
              
             }
         }
-        public int DrivePath { get; set; }
-        public abstract double AverageSpeed();
+        public int DrivePath 
+        {
+            get { return _DrivePath; }
+            set { }
+        }
+        public double AverageSpeed()
+        {
+            return DrivePath / DriveTime;
+        }
+
         public abstract void ShowInfo();
     }
 }

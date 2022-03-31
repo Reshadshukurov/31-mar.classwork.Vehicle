@@ -10,10 +10,10 @@ namespace ConsoleApp12.Models
     {
        
             public int HoursePower { get; set; }
-            public int FuelRate { get; set; }
-            public int CurrentFuel { get; set; }
+            public int Tanksize { get; set; }
+            public int CurrentOil { get; set; }
             public int FuelType { get; set; }
-            public abstract int LeftFuelAmount();
+            public abstract int LeftOilAmount();
         
     }
 }

@@ -8,24 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\comp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\ConsoleApp12\\ConsoleApp12\\ConsoleApp12.csproj",
+      "projectUniqueName": "C:\\Users\\comp\\source\\repos\\31-mar.classwork.Vehicle\\ConsoleApp12\\ConsoleApp12.csproj",
       "projectName": "ConsoleApp12",
-      "projectPath": "C:\\Users\\user\\source\\repos\\ConsoleApp12\\ConsoleApp12\\ConsoleApp12.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\ConsoleApp12\\ConsoleApp12\\obj\\",
+      "projectPath": "C:\\Users\\comp\\source\\repos\\31-mar.classwork.Vehicle\\ConsoleApp12\\ConsoleApp12.csproj",
+      "packagesPath": "C:\\Users\\comp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\comp\\source\\repos\\31-mar.classwork.Vehicle\\ConsoleApp12\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\comp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
